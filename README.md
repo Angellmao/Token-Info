@@ -1,6 +1,6 @@
 # Token-Info
 
-This is working wxploit that can display user name, user id, phone number, email and 2 factor by using token.
+This is working exploit that can display user name, user id, phone number, email and 2 factor by using token.
 
 * The Token-Info is coded by me.
 
